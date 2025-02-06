@@ -1,6 +1,10 @@
-## Olá, seja bem-vindo(a)! 
+## Olá, seja bem-vindo(a)! 👋🏻
 
-Recém-formado em Análise e Desenvolvimento de Sistemas, este perfil é dedicado a repositórios de modelos de desenvolvimento, focados em soluções eficientes e boas práticas.
+👨🏻‍🎓 Recém-formado em Análise e Desenvolvimento de Sistemas, este perfil é dedicado a repositórios de modelos de desenvolvimento, focados em soluções eficientes e boas práticas.
+
+### 📌 Projetos em Destaque
+
+- [📱 Cardápio Digital](https://cardapio-online-roan.vercel.app/) – Um cardápio online intuitivo para modernizar o atendimento em restaurantes.
 
 
 <div style="display: inline_block"><br>
